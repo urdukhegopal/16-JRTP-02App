@@ -4,7 +4,14 @@ public class Gopal{
 Gopal(){
 
 
+Ganesh(){
+
+
 }
+
+
+}
+
 }
 
 }
